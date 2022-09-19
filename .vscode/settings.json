@@ -1,0 +1,5 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "php.validate.executablePath": "",
+  "editor.formatOnSave": true
+}
